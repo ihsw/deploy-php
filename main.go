@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/ihsw/deploy-php/Config"
+	"github.com/ihsw/deploy-symfony2-client/Config"
 )
 
 func main() {

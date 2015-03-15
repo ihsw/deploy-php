@@ -1,7 +1,6 @@
 package Config
 
 import (
-	"fmt"
 	redis "gopkg.in/redis.v2"
 	"strconv"
 )
